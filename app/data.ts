@@ -6,18 +6,18 @@
 export const profile = {
   name: "Arihant Jain",
   shortName: "AJ",
-  role: "3D Artist & Generative AI Creator",
-  tagline: "Cinematic 3D worlds. AI-driven storytelling.",
+  role: "3D & VFX Artist | Photoshop, Premiere, After Effects, Blender Expert",
+  tagline: "Creating stunning visuals from concept to final composite.",
   location: "India",
   email: "hello@arihantjain.studio",
   resumeUrl: "/resume.pdf",
   avatar: "/avatar.jpg",
   shortBio:
-    "I build immersive 3D scenes and push the boundaries of generative AI to create visuals that feel alive.",
+    "I specialize in 3D modeling, VFX compositing, and motion graphics using industry-standard tools.",
   longBio: [
-    "I'm Arihant Jain — a 3D artist and generative AI creator running multiple creative channels. My work spans cinematic scene design, character modeling, product visualization, and AI-driven concept art for studios, brands, and creators.",
-    "By day I sculpt in Blender and Unreal. By night I fine-tune diffusion models in ComfyUI and orchestrate multi-modal AI pipelines that turn text and sketches into full cinematic sequences.",
-    "Open to freelance collaborations, full-time roles, and experimental commissions.",
+    "I'm Arihant Jain, a 3D and VFX artist with expertise in Blender, Photoshop, Premiere Pro, and After Effects. My work spans cinematic 3D scenes, visual effects for film, motion graphics, and product visualization.",
+    "By day I craft detailed 3D assets and animate them in Blender; by night I composite and grade footage in After Effects and Premiere Pro, bringing stories to life.",
+    "Open to freelance collaborations, full-time roles, and creative projects that push visual boundaries."
   ],
   status: "Available for hire",
   artstationUrl: "https://www.artstation.com/arihantjain01",
