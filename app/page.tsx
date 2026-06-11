@@ -202,7 +202,7 @@ function About() {
           className="relative"
         >
           <div className="aspect-square glass rounded-3xl overflow-hidden glow">
-            <div className="w-full h-full bg-gradient-to-br from-accent/30 via-pink-500/20 to-orange-400/20 flex items-center justify-center">
+            <div className="w-full h-full bg-gradient-to-br from-accent/30 via-blue-500/20 to-cyan-400/20 flex items-center justify-center">
               <Sparkles className="w-24 h-24 text-accent animate-float" />
             </div>
           </div>
@@ -219,7 +219,7 @@ function About() {
 /* ========================  SKILLS  ======================== */
 function Skills() {
   const groups = [
-    { title: "3D & VFX", items: skills.threeD, icon: <Box className="w-5 h-5" />, color: "from-purple-500/20 to-pink-500/20" },
+    { title: "3D & VFX", items: skills.threeD, icon: <Box className="w-5 h-5" />, color: "from-blue-500/20 to-cyan-500/20" },
     { title: "Generative AI", items: skills.genAI, icon: <Wand2 className="w-5 h-5" />, color: "from-cyan-500/20 to-blue-500/20" },
     { title: "Post & Compositing", items: skills.post, icon: <Film className="w-5 h-5" />, color: "from-orange-500/20 to-red-500/20" },
   ];
@@ -402,7 +402,7 @@ function Projects() {
               transition={{ delay: (i % 2) * 0.1 }}
               className="group relative block rounded-2xl overflow-hidden glass hover:border-accent/50 transition"
             >
-              <div className="aspect-video bg-gradient-to-br from-accent/20 via-pink-500/10 to-orange-400/10 relative overflow-hidden">
+              <div className="aspect-video bg-gradient-to-br from-accent/20 via-blue-500/10 to-cyan-400/10 relative overflow-hidden">
                 {p.image && p.image !== "" ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img
@@ -454,7 +454,7 @@ function Contact() {
           viewport={{ once: true }}
           className="glass rounded-3xl p-10 sm:p-16 text-center relative overflow-hidden"
         >
-          <div className="absolute inset-0 bg-gradient-to-br from-accent/10 via-transparent to-pink-500/10" />
+          <div className="absolute inset-0 bg-gradient-to-br from-accent/10 via-transparent to-blue-500/10" />
           <div className="relative z-10">
             <Sparkles className="w-10 h-10 text-accent mx-auto mb-6" />
             <h2 className="font-display text-4xl sm:text-5xl font-bold mb-4">

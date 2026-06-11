@@ -11,8 +11,8 @@ const config: Config = {
         background: "#0a0a0a",
         foreground: "#ededed",
         accent: {
-          DEFAULT: "#a855f7",
-          glow: "#c084fc",
+          DEFAULT: "#2563eb",
+          glow: "#60a5fa",
         },
         muted: "#1a1a1a",
         border: "#262626",
