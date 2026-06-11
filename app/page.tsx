@@ -65,16 +65,20 @@ function Navbar() {
     </motion.nav>
   );
 }
-
 /* =========================  HERO  ========================= */
 function Hero() {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-grid"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden creative-bg"
     >
-      <div className="absolute top-1/4 -left-20 w-96 h-96 bg-accent/20 rounded-full blur-3xl animate-glow-pulse" />
-      <div className="absolute bottom-1/4 -right-20 w-96 h-96 bg-pink-500/10 rounded-full blur-3xl animate-glow-pulse" />
+      {/* Floating 3D shapes */}
+      <div className="shape-3d" />
+      <div className="shape-3d" />
+      <div className="shape-3d" />
+      <div className="shape-3d" />
+      <div className="shape-3d" />
+      <div className="shape-3d" />
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 text-center pt-20">
         <motion.div
@@ -161,7 +165,6 @@ function Hero() {
     </section>
   );
 }
-
 /* ========================  ABOUT  ======================== */
 function About() {
   return (
