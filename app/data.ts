@@ -6,17 +6,17 @@
 export const profile = {
   name: "Arihant Jain",
   shortName: "AJ",
-  role: "3D & VFX Artist | Photoshop, Premiere, After Effects, Blender Expert",
-  tagline: "Creating stunning visuals from concept to final composite.",
+  role: "3D Artist, VFX Artist & Animator",
+  tagline: "Bringing stories to life through 3D, VFX, and animation.",
   location: "India",
   email: "hello@arihantjain.studio",
   resumeUrl: "/resume.pdf",
   avatar: "/avatar.jpg",
   shortBio:
-    "I specialize in 3D modeling, VFX compositing, and motion graphics using industry-standard tools.",
+    "I specialize in 3D modeling, VFX compositing, motion graphics, and animation using industry-standard tools.",
   longBio: [
-    "I'm Arihant Jain, a 3D and VFX artist with expertise in Blender, Photoshop, Premiere Pro, and After Effects. My work spans cinematic 3D scenes, visual effects for film, motion graphics, and product visualization.",
-    "By day I craft detailed 3D assets and animate them in Blender; by night I composite and grade footage in After Effects and Premiere Pro, bringing stories to life.",
+    "I'm Arihant Jain, a 3D artist, VFX artist, and animator with expertise in Blender, Photoshop, Premiere Pro, and After Effects. My work spans cinematic 3D scenes, visual effects for film, motion graphics, character animation, and product visualization.",
+    "By day I craft detailed 3D assets and animate them in Blender; by night I composite, grade, and animate footage in After Effects and Premiere Pro, bringing stories to life.",
     "Open to freelance collaborations, full-time roles, and creative projects that push visual boundaries."
   ],
   status: "Available for hire",
